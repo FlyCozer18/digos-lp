@@ -1,3 +1,8 @@
+export const metadata = {
+  title: 'Digos Online | Calçados com estilo e conforto',
+  description: 'Encontre os calçados mais desejados da Digos Online e compre com segurança na loja oficial.'
+};
+
 export default function Page() {
   const storeUrl = 'https://www.mercadolivre.com.br/loja/digos-online';
 
