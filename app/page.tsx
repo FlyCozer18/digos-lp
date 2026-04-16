@@ -102,7 +102,7 @@ export default function Page() {
               </span>
 
               <h1 className="mt-6 text-4xl font-bold leading-tight text-red-900 md:text-6xl">
-                Encontre o calçado ideal para você nas nossas lojas oficiais!
+                Encontre o calçado ideal para você na nossa loja oficial!
               </h1>
 
               <p className="mt-5 max-w-2xl text-lg text-neutral-600 md:text-xl">
@@ -160,7 +160,7 @@ export default function Page() {
         <div className="mx-auto max-w-4xl px-6 text-center md:px-10">
           <h2 className="text-3xl font-bold md:text-4xl">Por que comprar com a Digos Online?</h2>
           <p className="mt-4 text-white/80">
-            Uma página pensada para aquecer o cliente vindo do Instagram e facilitar a decisão de compra.
+            Uma página pensada para você cliente com objetivo de facilitar a decisão de compra.
           </p>
 
           <div className="mt-10 grid gap-6 md:grid-cols-3">
@@ -174,14 +174,14 @@ export default function Page() {
             <div className="rounded-[2rem] bg-white p-7 text-left text-neutral-900 shadow-sm">
               <h3 className="text-xl font-semibold">Compra com confiança</h3>
               <p className="mt-3 text-neutral-600">
-                Direcionamento para a loja oficial, transmitindo mais segurança ao consumidor.
-              </p>
+                Direcionamos você para nossa loja oficial dentro do Mercado Livre! Compre com seguraça!
             </div>
 
             <div className="rounded-[2rem] bg-white p-7 text-left text-neutral-900 shadow-sm">
               <h3 className="text-xl font-semibold">Seleção estratégica</h3>
               <p className="mt-3 text-neutral-600">
-                Produtos mais buscados, organizados para facilitar a descoberta e aumentar o desejo de compra.
+                Juntamos os produtos mais buscados em nossa loja para você não ficar de fora!
+                
               </p>
             </div>
           </div>
