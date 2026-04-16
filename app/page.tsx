@@ -175,13 +175,14 @@ export default function Page() {
               <h3 className="text-xl font-semibold">Compra com confiança</h3>
               <p className="mt-3 text-neutral-600">
                 Direcionamos você para nossa loja oficial dentro do Mercado Livre! Compre com seguraça!
+                </p>
             </div>
 
             <div className="rounded-[2rem] bg-white p-7 text-left text-neutral-900 shadow-sm">
               <h3 className="text-xl font-semibold">Seleção estratégica</h3>
               <p className="mt-3 text-neutral-600">
                 Juntamos os produtos mais buscados em nossa loja para você não ficar de fora!
-                
+
               </p>
             </div>
           </div>
