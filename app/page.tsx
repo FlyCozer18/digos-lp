@@ -1,3 +1,5 @@
+import LeadPopup from "@/components/LeadPopup";
+
 export const metadata = {
   title: 'Digos Online | Calçados com estilo e conforto',
   description: 'Encontre os calçados mais desejados da Digos Online e compre com segurança na loja oficial.'
@@ -87,6 +89,9 @@ export default function Page() {
   }
 
   return (
+    <>
+    <LeadPopup />
+    
     <div className="min-h-screen bg-neutral-50 text-neutral-900">
       <section className="bg-white">
         <div className="mx-auto max-w-7xl px-6 py-16 md:px-10 md:py-20">
@@ -262,5 +267,6 @@ export default function Page() {
         Digos Online
       </footer>
     </div>
+    </>
   );
 }
