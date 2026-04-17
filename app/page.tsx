@@ -125,7 +125,7 @@ export default function Page() {
               <div className="rounded-[2rem] bg-neutral-200 p-3 shadow-sm sm:row-span-2">
                 <div className="h-full min-h-[320px] overflow-hidden rounded-[1.5rem] bg-white">
                   <img
-                    src="https://res.cloudinary.com/dnvnxio4s/image/upload/v1776350852/New_balance_530_izuyne.png"
+                    src="https://res.cloudinary.com/dnvnxio4s/image/upload/v1776435688/Captura_de_Tela_2026-04-17_%C3%A0s_11.11.28_zsmb55.png"
                     alt="Tênis New Balance 530 Feminino"
                     className="h-full w-full object-cover"
                   />
@@ -145,7 +145,7 @@ export default function Page() {
               <div className="rounded-[2rem] bg-neutral-200 p-3 shadow-sm">
                 <div className="h-[152px] overflow-hidden rounded-[1.5rem] bg-white">
                   <img
-                    src="https://res.cloudinary.com/dnvnxio4s/image/upload/v1776350953/Gemini_Generated_Image_st89f7st89f7st89_dypijb.png"
+                    src="https://res.cloudinary.com/dnvnxio4s/image/upload/v1776441224/Gemini_Generated_Image_1t525s1t525s1t52_inmzwr.png"
                     alt="Close do produto"
                     className="h-full w-full object-cover"
                   />
